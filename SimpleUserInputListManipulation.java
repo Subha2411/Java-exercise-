@@ -38,3 +38,11 @@ System.out.println("Final Array List: " + arrayList);
 scanner.close();
 }
 }
+
+OUTPUT
+  Enter integers separated by spaces: 45 66 76 
+Initial Linked List: [45, 66, 76]
+Initial Array List: [45, 66, 76]
+Enter elements to be added (separated by spaces): 90 55
+Final Linked List: [90, 45, 66, 76, 55]
+Final Array List: [90, 45, 66, 76, 55]
